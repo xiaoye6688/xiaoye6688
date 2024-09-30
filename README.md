@@ -18,7 +18,7 @@
 ## 📫 联系方式
 
 - 邮箱: [xiaoye1035@gmail.com](mailto:xiaoye1035@gmail.com) | [xiaoye1035@qq.com](mailto:xiaoye1035@qq.com)
-- 博客: [http://xiaoye6688.me](http://xiaoye6688.me)
+- 博客: [https://小夜.us.kg/](https://小夜.us.kg/) | [https://xiaoye6688.us.kg/](https://xiaoye6688.us.kg/) | [https://020906.xyz/](https://020906.xyz/) 
 
 ## ✨ 个人陈述
 
