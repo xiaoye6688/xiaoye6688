@@ -1,5 +1,6 @@
-# 小夜的个人主页 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoye6688" />
 
+# 小夜的个人主页 👋
 欢迎来到我的 GitHub 主页！我是小夜，一名软件工程专业的大学生，专注于编程与软件开发。
 
 ## 🛠️ 技能
