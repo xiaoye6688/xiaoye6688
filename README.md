@@ -11,7 +11,7 @@
 ### 🌟 开源项目
 
 ### 1. [jueLinuxDo](https://github.com/xiaoye6688/jueLinuxDo) 
-**jueLinuxDo** 是一个工具合集，包含多个实用工具，目前已获得 87 个 Star。  
+**jueLinuxDo** 是一个工具合集，包含多个实用工具，目前已获得 94 个 Star。  
 [项目地址](https://github.com/xiaoye6688/jueLinuxDo)
 
 ### 📫 联系方式
